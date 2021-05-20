@@ -1,4 +1,7 @@
-![Welcome to my github](https://user-images.githubusercontent.com/60903342/119024906-f951c880-b979-11eb-8075-7876c3a83209.gif)
+
+![Welcome to my github (2)](https://user-images.githubusercontent.com/60903342/119042485-49d32100-b98e-11eb-8089-4757df9bd301.gif)
+
+
 ### *Olá, que ótimo que você está aqui!* :speech_balloon:	
 Sou uma desenvolvedora front-end junior! Ainda tenho muito oque aprender, mas cada pequeno passo é importante! Então aqui você encontra 
 o "armário" onde guardo meus projetos, desde minhas primeiras aventuras com desenvolvimento, até meus projetos mais atuais. 
