@@ -3,7 +3,7 @@
 
 
 ### *Olá, que ótimo que você está aqui!* :speech_balloon:	
-Sou uma desenvolvedora front-end junior! Ainda tenho muito oque aprender, mas cada pequeno passo é importante! Então aqui você encontra 
+Sou uma desenvolvedora front-end junior! Ainda tenho muito o que aprender, mas cada pequeno passo é importante! Então aqui você encontra 
 o "armário" onde guardo meus projetos, desde minhas primeiras aventuras com desenvolvimento, até meus projetos mais atuais. 
 
 Fique à vontade, só não repara a bagunça! :computer::purple_heart:	
